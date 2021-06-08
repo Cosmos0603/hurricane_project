@@ -28,6 +28,6 @@ Hurricane Marker CSV:
 	* experiment with different baseline models
 	* perform county filtering and product grouping
 * Model Evaluation: 
-	* can be run with the sample data (df_tx_data3.pkl)
+	* can be run with the sample data (df_tx_sample.pkl)
 	* parameter tuning with randomized search
 	* evaluating different models with different feature combinations
