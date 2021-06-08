@@ -17,6 +17,8 @@ Hurricane Marker CSV:
 * exploredata_FEMA: explore and preprocess the FEMA data
 * exploredata_psid: explore and preprocess the psid data
 * exploredata_Nielsen: explore and preprocess the Nielsen data
+* exploredata_Census: explore and preprocess the Census data (demo info)
+* explore_visualize_data.ipynb: Data Visualizations
 * hurricane_marker: explore and preprocess the hurricane_marker.csv
 * merge_plot: 
 	* merge all the preprocessed data into one single data frames
