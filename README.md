@@ -9,6 +9,10 @@ Nielsen Scanner Consumption Dataset:
 * provides weekly product sales by county across all states
 * not publically available
 
+Census Bureau Dataset:
+* provides county level demographical information
+* publically available at https://data.world/bdill/county-level-population-by-race-ethnicity-2010-2019
+
 Hurricane Marker CSV:
 * provides the markers for past hurricane occurrences
 * not publically available
